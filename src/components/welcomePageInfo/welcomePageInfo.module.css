@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+}
+
+.infoContainer{
+    margin-top: 70px;
+    margin-bottom: 43px;
+    width: 100%;
+}
+
+.info{
+    color: #669885;
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+.list li{
+margin-bottom: 10px;
+}
+
+.list{
+    width: 100%;
+
+}
+
+li::marker{
+    color: #669885;
+}
+
+/*img{*/
+/*    margin-left: 113px;*/
+/*}*/

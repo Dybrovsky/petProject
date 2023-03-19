@@ -1,0 +1,14 @@
+.div {
+    margin-top: 32px;
+    display: flex;
+    height: 260px;
+    background: #669885;
+    padding-left: 261px;
+    align-items: center;
+}
+
+.text{
+    font-size: 32px;
+    color: whitesmoke;
+    width: 750px;
+}
